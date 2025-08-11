@@ -6,6 +6,13 @@ yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
 
+# File sistem yang nggak perlu
+.DS_Store
+Thumbs.db
+
+# File data user (kalau nggak mau dishare publik)
+userdata.json
+
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
